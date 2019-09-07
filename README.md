@@ -25,7 +25,7 @@ Department of Astronomy, Institut Teknologi Bandung
 salman.hiro@s.itb.ac.id
 
 ### Bibliography
-Wood, D.B., 1971. An analytical model of eclipsing binary star systems.
+Wood, D.B., 1971. An analytical model of eclipsing binary star systems.  
 Carroll, B.W. and Ostlie, D.A., 1996. An introduction to modern stellar astrophysics.
 
 

@@ -1,4 +1,4 @@
-# Pybinec
+# Pybinec (Python for Binary Eclipsing)
 
 This is a python code for determining eclipsing binary star astrophysical properties, such as:
 1. Star radius 
@@ -24,7 +24,7 @@ Salman Al Farisi
 Department of Astronomy, Institut Teknologi Bandung  
 salman.hiro@s.itb.ac.id
 
-## Bibliography
+### Bibliography
 Wood, D.B., 1971. An analytical model of eclipsing binary star systems.
 Carroll, B.W. and Ostlie, D.A., 1996. An introduction to modern stellar astrophysics.
 

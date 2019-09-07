@@ -19,4 +19,13 @@ This program was far from ideal eclipsing binary star astrophysical properties d
 
 This program was made by a lonely astrophysics undergrad student, so I will be welcome for any conversation!
 
+Sincerely, 
+Salman Al Farisi
+Department of Astronomy, Institut Teknologi Bandung
+salman.hiro@s.itb.ac.id
+
+##Bibliography
+Wood, D.B., 1971. An analytical model of eclipsing binary star systems.
+Carroll, B.W. and Ostlie, D.A., 1996. An introduction to modern stellar astrophysics.
+
 

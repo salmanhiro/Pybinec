@@ -15,6 +15,9 @@ To use this program, we need basic physical parameters derived from observation,
 
 To use this program, just `import pybinec`
 
+## Modules
+In progress, stay tuned, or if you're hungry, just look at `pybinec.py`
+
 For general use, pybinec has some modules
 
 This program was far from ideal eclipsing binary star astrophysical properties determination, and currently functioned as learning media for students. We are open for development, just hit the Pull Request, send your code, I will test it, and Welcome to our team!

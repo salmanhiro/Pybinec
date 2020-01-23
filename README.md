@@ -22,6 +22,7 @@ For general use, pybinec has some modules
 
 This program was far from ideal eclipsing binary star astrophysical properties determination, and currently functioned as learning media for students. We are open for development, just hit the Pull Request, send your code, I will test it, and Welcome to our team!
 
+## Cheers
 This program was made by a lonely astrophysics undergrad student, so I will be welcome for any conversation!
 
 Sincerely, 

@@ -1,8 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Created on Fri Sep  6 22:25:20 2019
-
 @author: hiro
 """
 
@@ -93,4 +90,3 @@ data = [['1', R_1, r_1, m_s1, vr_1, period],
 save_session = pd.DataFrame(data, columns = ['obj', 'R(m)', 'r(m)','v_rmax(m/s)', 'm(kg)',
                                              'p(day)'])
 save_session.to_csv("bin_kine.csv")
-

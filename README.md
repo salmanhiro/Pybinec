@@ -13,7 +13,9 @@ To use this program, we need basic physical parameters derived from observation,
 4. Magnitude changed in primary and secondary eclipses
 5. Binary star period
 
-To use this program, just run the `binarystar.py`, or `python binarystar.py` in terminal.
+To use this program, just `import pybinec`
+
+For general use, pybinec has some modules
 
 This program was far from ideal eclipsing binary star astrophysical properties determination, and currently functioned as learning media for students. We are open for development, just hit the Pull Request, send your code, I will test it, and Welcome to our team!
 
